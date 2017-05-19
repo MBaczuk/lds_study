@@ -35,9 +35,3 @@
 [Blue Letter Bible (Multiple Translations)](https://www.blueletterbible.org/)
 
 [LDS Church News Archive](http://www.ldschurchnewsarchive.com/home/)
-
-**Text File Sources:**
-* Book of Mormon - gutenberg project
-* KJV Bible - gutenberg project
-* D&C - The Scriptures: CD-ROM Edition (downloadable for free online as LDS View 7.1).
-* Pearl of Great Price - The Scriptures: CD-ROM Edition (downloadable for free online as LDS View 7.1).
