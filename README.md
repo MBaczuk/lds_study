@@ -3,7 +3,7 @@
 **The purpose of this repo is to provide links to tools to aid in studying the gospel.**
 
 ## Scriptures
-**[Book of Mormon](https://www.lds.org/scriptures/bofm?lang=eng")**  
+**[Book of Mormon](https://www.lds.org/scriptures/bofm")**  
 * [Institute Student Manual](https://www.lds.org/manual/book-of-mormon-student-manual?lang=eng)
 * [Center for Book of Mormon Studies](http://willes.mi.byu.edu/)
 
